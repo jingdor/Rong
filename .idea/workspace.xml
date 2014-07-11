@@ -27,91 +27,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <file leaf-file-name="master.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/layout/master.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
+            <state line="28" column="19" selection-start="1297" selection-end="1297" vertical-scroll-proportion="-12.25" vertical-offset="189" max-vertical-offset="893">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/Backend/controllers/Index.php">
+      <file leaf-file-name="_nav_top.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/part/_nav_top.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="182" selection-end="205" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="418">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/Frontend/models/User.php">
+      <file leaf-file-name="application.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/application.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="38" selection-end="38" vertical-scroll-proportion="-3.392857" vertical-offset="0" max-vertical-offset="266">
+            <state line="12" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/Backend/models/user.php">
+      <file leaf-file-name=".gitattributes" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="706">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Twig.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/plugins/Twig.php">
+      <file leaf-file-name="master.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/layout/master.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.14652957" vertical-offset="0" max-vertical-offset="778">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="893">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Twig.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/suin/php-yaf-twig/Source/Suin/Yaf/Twig/Twig.php">
+      <file leaf-file-name="_header.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/part/_header.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="57.607143" vertical-offset="1613" max-vertical-offset="2413">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/Frontend/views/index/index.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="0" selection-end="134" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/Index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="494">
+            <state line="2" column="9" selection-start="58" selection-end="58" vertical-scroll-proportion="-1.3571428" vertical-offset="0" max-vertical-offset="152">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/index/index.twig">
+        <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/index/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="105" selection-end="105" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="285">
+            <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/Frontend/controllers/Index.php">
+      <file leaf-file-name="_header.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/part/_header.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="30" selection-start="234" selection-end="234" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="399">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="152">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/part/_footer.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="9" selection-end="9" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="152">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_nav_top.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/part/_nav_top.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
               <folding />
             </state>
           </provider>
@@ -132,17 +135,24 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/application/modules/Frontend/views/index.twig" />
         <option value="$PROJECT_DIR$/application/plugins/User.php" />
-        <option value="$PROJECT_DIR$/application/modules/Backend/views/index/index.twig" />
         <option value="$PROJECT_DIR$/application/modules/Frontend/models/User.php" />
-        <option value="$PROJECT_DIR$/application/modules/Backend/controllers/Index.php" />
-        <option value="$PROJECT_DIR$/conf/application.ini" />
         <option value="$PROJECT_DIR$/application/bootstrap.php" />
         <option value="$PROJECT_DIR$/application/modules/Frontend/views/index/index.twig" />
-        <option value="$PROJECT_DIR$/application/views/index/index.twig" />
         <option value="$PROJECT_DIR$/application/modules/Frontend/controllers/Index.php" />
         <option value="$PROJECT_DIR$/application/controllers/Index.php" />
         <option value="$PROJECT_DIR$/application/plugins/Twig.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/application/views/part/_footer.twig" />
+        <option value="$PROJECT_DIR$/application/views/part/_nav_top.twig" />
+        <option value="$PROJECT_DIR$/application/views/part/_header.twig" />
+        <option value="$PROJECT_DIR$/application/views/layout/Frontend.twig.html" />
+        <option value="$PROJECT_DIR$/application/views/layout/master.twig" />
+        <option value="$PROJECT_DIR$/application/views/layout/frontend.twig" />
+        <option value="$PROJECT_DIR$/application/modules/Backend/controllers/Index.php" />
+        <option value="$PROJECT_DIR$/application/modules/Backend/views/index/index.twig" />
+        <option value="$PROJECT_DIR$/application/modules/Backend/views/layout/master.twig" />
+        <option value="$PROJECT_DIR$/application/views/index/index.twig" />
+        <option value="$PROJECT_DIR$/conf/application.ini" />
       </list>
     </option>
   </component>
@@ -161,10 +171,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-236" />
-    <option name="y" value="187" />
-    <option name="width" value="1936" />
-    <option name="height" value="965" />
+    <option name="x" value="272" />
+    <option name="y" value="5" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -192,6 +202,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,257 +217,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="localhost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="Rong" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wamp\www\Rong\application\modules\Frontend" />
+      <recent name="E:\wamp\www\Rong\application\views\part" />
+      <recent name="E:\wamp\www\Rong\application\views\layout" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\wamp\www\Rong\application\modules\Backend\views\part" />
+      <recent name="E:\wamp\www\Rong\application\modules\Backend\views\layout" />
       <recent name="D:\wamp\www\localhost\application\modules\Backend" />
       <recent name="D:\wamp\www\localhost\application\modules\Frontend\views\index" />
       <recent name="D:\wamp\www\localhost\application\modules\Backend\view\index" />
@@ -505,15 +288,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-236" y="187" width="1936" height="965" extended-state="0" />
-    <editor active="false" />
+    <frame x="272" y="5" width="1616" height="916" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22657253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -545,17 +328,89 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.php">
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="342">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/Backend/controllers/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="494">
+        <state line="13" column="0" selection-start="182" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="418">
+          <folding>
+            <element signature="n#indexAction#0;n#IndexController#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Frontend/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="11" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="266">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/models/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/plugins/Twig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/suin/php-yaf-twig/Source/Suin/Yaf/Twig/Twig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Frontend/views/index/index.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="0" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index/index.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Frontend/controllers/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="399">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/controllers/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="494">
+          <folding>
+            <element signature="n#indexAction#0;n#IndexController#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -575,11 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="570">
-          <folding>
-            <element signature="e#6#32#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="10" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/application.ini">
@@ -591,15 +442,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="209">
-          <folding />
-        </state>
+        <state line="3" column="19" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="209" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/Backend/controllers/Index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="494">
-          <folding />
+          <folding>
+            <element signature="n#indexAction#0;n#IndexController#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -619,11 +470,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="323">
-          <folding>
-            <element signature="e#6#32#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="5" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/application.ini">
@@ -640,55 +487,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/index/index.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/application.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="43" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="-9.5" vertical-offset="0" max-vertical-offset="722">
-          <folding>
-            <element signature="e#6#32#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="14" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="-9.5" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/Frontend/controllers/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="30" selection-start="234" selection-end="234" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="399">
+        <state line="12" column="30" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="399">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/Frontend/models/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="38" selection-end="38" vertical-scroll-proportion="-3.392857" vertical-offset="0" max-vertical-offset="266">
+        <state line="5" column="11" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="266">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/suin/php-yaf-twig/Source/Suin/Yaf/Twig/Twig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="57.607143" vertical-offset="1613" max-vertical-offset="2413">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2432">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.07125" vertical-offset="0" max-vertical-offset="800">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.07125" vertical-offset="0" max-vertical-offset="800" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/.htaccess">
@@ -698,23 +525,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/index/index.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="105" selection-end="105" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/Backend/models/user.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228">
+        <state line="6" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/Backend/controllers/Index.php">
+    <entry file="file://$PROJECT_DIR$/application/plugins/Twig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="182" selection-end="205" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="418">
+        <state line="6" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="-2.7142856" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Frontend/views/index/index.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="0" selection-end="134" vertical-scroll-proportion="0.2159091" vertical-offset="0" max-vertical-offset="704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/part/_footer.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="9" selection-end="9" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="152">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/part/_header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="9" selection-start="58" selection-end="58" vertical-scroll-proportion="-1.3571428" vertical-offset="0" max-vertical-offset="152">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/part/_nav_top.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layout/master.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index/index.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
           <folding />
         </state>
       </provider>
@@ -726,16 +588,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/Frontend/views/index/index.twig">
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/controllers/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="0" selection-end="134" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="285">
+        <state line="15" column="1" selection-start="222" selection-end="222" vertical-scroll-proportion="0.35085228" vertical-offset="0" max-vertical-offset="704">
+          <folding>
+            <element signature="n#indexAction#0;n#IndexController#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/layout/master.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="19" selection-start="1297" selection-end="1297" vertical-scroll-proportion="-12.25" vertical-offset="189" max-vertical-offset="893">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/plugins/Twig.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/Backend/views/index/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.14652957" vertical-offset="0" max-vertical-offset="778">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/part/_header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="732">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/part/_nav_top.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="732">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/application.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="706">
           <folding />
         </state>
       </provider>
