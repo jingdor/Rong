@@ -11,10 +11,22 @@
 <meta name="description" content="">
          <meta name="viewport" content="width=device-width, initial-scale=1">
     {% endblock %}
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+
+
+    <link rel="stylesheet" href="/css/main.css">
+    <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" href="/css/normalize.css">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+        <!-- Latest compiled and minified JavaScript -->
+
         {#Outside style#}
     {%block  link  %}{% endblock %}
      {#Inside style#}
@@ -31,9 +43,10 @@
 {% block footer %}{% include "part/_footer.twig" %}{% endblock %}
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 {% block jquery_plugin %}{% endblock %}
-<script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/main.js"></script>
 {% block script %}{% endblock %}
 <!--  Analytics -->
 {% block Analytics %}{% endblock %}

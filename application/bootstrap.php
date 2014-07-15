@@ -31,7 +31,7 @@ class Bootstrap extends Yaf_Bootstrap_Abstract
 
                                     //复制合并css 文件
                                             return ;
-                                                var_dump( $modulesViewDir.'/'.$viewDir.'/asset');
+//                                                var_dump( $modulesViewDir.'/'.$viewDir.'/asset');
                                 }
 
                     }

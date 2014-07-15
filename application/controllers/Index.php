@@ -12,6 +12,7 @@ class IndexController extends Yaf_Controller_Abstract {
 
     }
     public function indexAction() {//默认Action
-        $this->display('index',array('username'=>time()));
+        echo "sasa";
+//        $this->display('index',array('username'=>time()));
     }
 }
