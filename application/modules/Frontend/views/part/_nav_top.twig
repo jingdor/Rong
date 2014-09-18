@@ -1,4 +1,5 @@
-<header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner" style="margin-bottom: 0px">
+<header class="navbar navbar-fixed-top bs-docs-nav" id="top" role="navigation" style="margin-bottom: 0px">
+    <div style="background-image: url('/img/bg-header2.png');height: 3px"></div>
     <div class="container">
         <div class="navbar-header">
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -34,10 +35,17 @@
                 </li>
 
             </ul>
+
+
+
+
             <ul class="nav navbar-nav navbar-right">
+                {% include "/part/_search.twig" %}
                 <li><a  class="user_doLogin" href="javascript:;"  event-node="" onclick="user.doLogin()">Login</a></li>
                 <li><a  class="user_doSignup" href="javascript:;" onclick="user.doSignup()">signup</a></li>
+
             </ul>
+
         </nav>
     </div>
 </header>

@@ -10,6 +10,8 @@
         }
     ],
     "require": {
+    	"filp/whoops": "1.2.*@dev",
+        "robmorgan/phinx": "*",
         "suin/php-yaf-twig": ">=1.0",
         "philo/laravel-blade": "dev-master"
     }

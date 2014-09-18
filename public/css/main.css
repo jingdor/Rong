@@ -214,6 +214,15 @@ textarea {
     *zoom: 1;
 }
 
+
+header{
+    /*padding: 4px 0px;*/
+    border-bottom: 3px #ffffff solid;
+    background-image:url('/img/linen.png');
+    -moz-box-shadow:  1px 1px 5px #888888;
+    box-shadow: 1px 1px 5px #888888;
+}
+
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
@@ -301,4 +310,10 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
+
+    header{
+        background-image:url('/img/linen.png');
+    }
+
 }
+
